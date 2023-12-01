@@ -9,7 +9,7 @@
   - Professionelle Entwicklungsumgebung, umfassende Funktionen.
     
 ### Seiten:
-.**https://www.w3schools.com/**
+- **https://www.w3schools.com/**
 
 #### 1. Variablen
 ```java
