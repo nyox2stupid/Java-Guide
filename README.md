@@ -4,9 +4,12 @@
 #### 0. 
 ###Programme: Greenfoot/Eclipse
 - **Greenfoot:**
-  - Ideal für Anfänger, visuelle Programmierung.
+  - Game-Engine, ermöglicht visuelle wiedergabe in einem 2D Feld
 - **Eclipse:**
-  - Professionelle Entwicklungsumgebung, umfassende Funktionen.
+  - Profesionelle IDE, praktisch ein Code-Editor mit zusätlichen Features, bspw. autocompletion oder dem Compiler.
+  Um ein neues Java Projekt zu erstellen:
+    File > New > Java Project
+    
     
 ### Seiten:
 - **https://www.w3schools.com/**
