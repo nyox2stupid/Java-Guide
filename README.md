@@ -2,7 +2,7 @@
 ### Java Lernguide
 
 #### 0. 
-### Programme: Greenfoot/Eclipse
+### Programme: Greenfoot/Eclipse (Ignorieren, WIP)
 - **Greenfoot:**
   - Game-Engine, ermöglicht visuelle wiedergabe in einem 2D Feld
 - **Eclipse:**
@@ -19,8 +19,8 @@
 int zahl = 5;          // Ganzzahl
 double kommazahl = 3.5;// Gleitkommazahl
 char zeichen = 'A';    // Zeichen
-boolean wahr = true;   // Wahrheitswert
-String text = "Hallo"; // Zeichenkette
+boolean wahr = true;   // Wahrheitswert, true oder false
+String text = "Hallo"; // Zeichenkette, bspw. Wörter oder Sätze
 ```
 
 #### 2. Basic Funktionen
@@ -47,11 +47,14 @@ Paul
 ```
 
 #### 4. Tricks
+Diese 3 Funktionen haben den gleichen effekt:
 ```java
 // Kommentare verbessern Code-Verständnis
 int a = 1;
-a++;                            // Inkrement
-a += 2;                         // Addition und Zuweisung
+
+a = a + 1;
+a++;                            // "Inkrement", auch mit -- verwendbar
+a += 1;                         // Mit " + - * / " verwendbar
 ```
 
 #### 5. Imports
