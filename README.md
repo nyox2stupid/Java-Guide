@@ -32,10 +32,18 @@ int y = 5 * 3;                  // Multiplikation
 double z = Math.sqrt(25);       // Wurzel berechnen
 ```
 
-#### 3. Erweiterte Variablen
-```java
-int[] zahlen = {1, 2, 3, 4};    // Array
-String[] namen = new String[3];// Array initialisieren
+#### 3. Arrays
+Arrays sind Listen, mit denen man mehrere Informationen in einer Variable speichern kann. Hier ist ein Beispiel, in der 3 Strings gespeicher sind:
+```javaxe
+String[] Namen = {"Paul", "Fritz", "Manfred"};    // Array
+```
+Um diese Informationen nun Abzurufen, geben wir in den eckigen Klammer die Stellen (anfangend bei 0) an:
+```javaxe
+System.out.println(Namen[0]);
+```
+Ausgabe der Konsole:
+```
+Paul
 ```
 
 #### 4. Tricks
